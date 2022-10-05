@@ -1,0 +1,22 @@
+﻿  Test.cpp
+D:\TestTaskProject\TestTaskC\TestTaskC\Test.cpp(102,79): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\TestTaskProject\TestTaskC\TestTaskC\Test.cpp(102,51): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\TestTaskProject\TestTaskC\TestTaskC\Test.cpp(103,79): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\TestTaskProject\TestTaskC\TestTaskC\Test.cpp(103,51): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+  TestTaskC.vcxproj -> D:\TestTaskProject\TestTaskC\x64\Debug\TestTaskC.exe
